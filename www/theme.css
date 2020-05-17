@@ -13,10 +13,12 @@ h1{
 .iro{
 	text-align: center;
 }
+
 .cim{
 	text-align: center;
 	
 }
+
 .fej {
 	background-color: #cccccc;
 	color: black;
@@ -27,10 +29,14 @@ h1{
 	*/
 	text-align: center;
 }
+
 .tartalom {
 	width:800px;
-	background-color: #eee;
 	color: black;
 	margin: 0px auto; 
 
+}
+
+a {
+	color: #2fbabd;
 }
