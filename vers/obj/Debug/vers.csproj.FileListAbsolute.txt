@@ -1,0 +1,9 @@
+C:\Users\vaska\source\repos\vers\bin\Debug\after-z.txt
+C:\Users\vaska\source\repos\vers\bin\Debug\caesar.txt
+C:\Users\vaska\source\repos\vers\bin\Debug\count-x-y-w.txt
+C:\Users\vaska\source\repos\vers\bin\Debug\vers.exe.config
+C:\Users\vaska\source\repos\vers\bin\Debug\vers.exe
+C:\Users\vaska\source\repos\vers\bin\Debug\vers.pdb
+C:\Users\vaska\source\repos\vers\obj\Debug\vers.csprojAssemblyReference.cache
+C:\Users\vaska\source\repos\vers\obj\Debug\vers.exe
+C:\Users\vaska\source\repos\vers\obj\Debug\vers.pdb
